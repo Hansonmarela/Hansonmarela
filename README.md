@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi 👋, I'm Hanson Hamenu
 
-<!--
+I enjoy designing and building progressive web apps and graphic contents that provide a great user experience in the
+and also i'm a computer science engineer who is passionate about making open-source more accessible.
+Some technologies I enjoy working with include Python, SQL, React.js and Node.js.
+- 🔭 I’m currently working on Python projects
+- 👯 I’m looking to collaborate on virtual events and also machine learning projects
+- - ⚡ Fun fact, I am also a gamer
+
+https://github.com/CosmicMind/Samples
+
+Link to my link: https://www.linkedin.com/in/hanson-hamenu-73373a203/
+
 **Hansonmarela/Hansonmarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
