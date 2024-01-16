@@ -8,20 +8,25 @@ I enjoy designing and building progressive web apps and graphic contents that pr
 and also i'm a computer science engineer who is passionate about making open-source more accessible.
 Some technologies I enjoy working with include Python, SQL, React.js and Node.js.
 
-Technical Skills
+### Technical Skills
 - HTML,CSS--3 years
 - Git,Github---2 years
 - Figma Design--2 years
 - SQL Database--1 year
 
-Addition Skills
+### Addition Skills
 - Cisco Network Security---2 years
 - Azure---1 year
 - Python---2 years
 - MySQL--- 1 year
 
   
-- 🔭 I’m currently working on Python projects
+- 🔭 I’m currently working on Python and Figma projects
+  AI Document Reader
+  Ugment AI
+  AI promts
+  UI Dynamos
+  10 Apps
 - 👯 I’m looking to collaborate on virtual events and also machine learning projects
 - - ⚡ Fun fact, I am also a gamer
 
